@@ -1,6 +1,4 @@
 streamlit
 plotly.express
-os
-warnings
 pandas
 openpyxl
